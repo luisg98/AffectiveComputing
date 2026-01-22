@@ -1,0 +1,18 @@
+# Core NLP
+spacy>=3.7
+language_tool_python>=3.2
+
+# Sentiment & emotion (PT)
+torch
+transformers>=4.40
+huggingface_hub>=0.20
+pysentimiento>=0.7
+librosa>=0.10
+soundfile>=0.12
+sounddevice>=0.4
+
+# Utilities
+rapidfuzz
+
+# Audio transcription
+faster-whisper>=0.10
